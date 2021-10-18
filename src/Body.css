@@ -1,0 +1,19 @@
+.seven{
+    margin:200px;
+}
+.eight{
+    padding-left: 20px;
+}
+button{
+    border-radius: 15px;
+    margin:10px;
+    color:#0084ff;
+    border:1px solid #0084ff;
+    background-color: white;
+    padding:5px 10px;
+    cursor:pointer;
+}
+button:hover{
+    background-color:#0084ff ;
+    color:white;;
+}
